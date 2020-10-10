@@ -10,7 +10,7 @@ If you’d like to know more about me or how I operate, note the links below! Th
 
 [Leetcode](https://leetcode.com/erikrodriguez-webdev/)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ErikRodriguez-webdev&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ErikRodriguez-webdev&hide=stars,issues&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikRodriguez-webdev&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
