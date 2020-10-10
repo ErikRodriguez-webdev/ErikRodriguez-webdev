@@ -4,14 +4,11 @@ In my spare time, I love to watch anime, read manga, and immerse myself in sneak
 
 If you’d like to know more about me or how I operate, note the links below! Thanks for reading!
 
-### LinkedIn
-- linkedin.com/in/erikrodriguez-webdev/
+### [LinkedIn](linkedin.com/in/erikrodriguez-webdev/)
 
-### Portfolio
-- erikrodriguez.me
+### [Portfolio](erikrodriguez.me)
 
-### Leetcode
-- leetcode.com/erikrodriguez-webdev/
+### [Leetcode](leetcode.com/erikrodriguez-webdev/)
 
 <!--
 **ErikRodriguez-webdev/ErikRodriguez-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
