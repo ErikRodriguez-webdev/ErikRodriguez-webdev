@@ -1,6 +1,6 @@
-A Software Engineer with expertise in creating front-end and back-end applications. I'm a team player who is more than capable of communicating with cross-functional teams and experienced in designing, developing, debugging, and testing applications. Skilled with technologies like JavaScript, Python, React, Node, HTML, and CSS.
+A Software Engineer with expertise in creating front-end and back-end applications. I'm a team player who is more than capable of communicating with cross-functional teams and experienced in designing, developing, debugging, and testing applications. Skilled with technologies like JavaScript, Python, React, Redux, Node, MySQL, HTML, and CSS.
 
-I am looking to join a startup company, where I can continually challenge myself to learn and grow alongside the company. I strive in a fast-paced work environment and tend to gravitate to smaller diverse tight-knit teams that are driven to make an impact.
+I am looking to join a company, where I can continually challenge myself to learn and grow alongside the company. I strive in a fast-paced work environment and tend to gravitate to smaller diverse tight-knit teams that are driven to make an impact.
 
 Currently keeping my programming skills sharp by working on projects to showcase on my portfolio, solving challenging leetcode problems, and attending virtual meet-ups aimed to explore technologies.
 
