@@ -4,7 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/erikrodriguez-webdev/) • [Portfolio](https://www.erikrodriguez.me/) • [Leetcode](https://leetcode.com/erikrodriguez-webdev/)
 
-I am an Army Infantrymen who has recently completed a Full Stack Web Development program at Lambda. I am skilled with creating front-end and back-end applications using technologies like JavaScript, Python, React, Redux, Node, SQLite, HTML, and CSS. If you’d like to know more about me or how I operate, note the links above! Thanks for reading!
+I am an Army Infantryman who has recently completed a Full Stack Web Development program at Lambda. I am skilled with creating front-end and back-end applications using technologies like JavaScript, Python, React, Redux, Node, SQLite, HTML, and CSS. If you’d like to know more about me or how I operate, note the links above! Thanks for reading!
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ErikRodriguez-webdev&show_icons=True&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
