@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-[LinkedIn](https://www.linkedin.com/in/erikrodriguez-webdev/) • [Portfolio](https://www.erikrodriguez.me/) • [Leetcode](https://leetcode.com/erikrodriguez-webdev/)
+[LinkTree](https://linktr.ee/perhapserik)
 
 I am an Army Infantryman who has recently completed a Full Stack Web Development program at Lambda. I am skilled with creating front-end and back-end applications using technologies like JavaScript, Python, React, Redux, Node, SQLite, HTML, and CSS. If you’d like to know more about me or how I operate, note the links above! Thanks for reading!
 
